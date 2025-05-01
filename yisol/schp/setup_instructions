@@ -1,0 +1,16 @@
+SCHP Model Setup Instructions
+
+Please download the following files manually:
+
+- Download lip final model from: https://drive.google.com/file/d/1k4dllHpu0bdx38J7H28rVVLpU-kOHmnH/view?usp=sharing
+  Save it to: ./models\schp\Self-Correction-Human-Parsing\pretrained\lip\final.pth
+
+- Download lip resnet101 model from: https://drive.google.com/file/d/1kB7aBM-eKb8__OVeW98k1qpnWMPzBcO4/view?usp=sharing
+  Save it to: ./models\schp\Self-Correction-Human-Parsing\pretrained\lip\resnet101.pth
+
+- Download atr final model from: https://drive.google.com/file/d/1ruJg4lqR_jgQPj-9K0PP-L2vJERYV5I5/view?usp=sharing
+  Save it to: ./models\schp\Self-Correction-Human-Parsing\pretrained\atr\final.pth
+
+- Download atr resnet101 model from: https://drive.google.com/file/d/1P8rQXqbHNjIDt-JBpTNck2qQlZ1CGuTZ/view?usp=sharing
+  Save it to: ./models\schp\Self-Correction-Human-Parsing\pretrained\atr\resnet101.pth
+
