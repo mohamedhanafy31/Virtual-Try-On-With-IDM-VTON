@@ -37,7 +37,7 @@ trained_checkpoint/
 best_model/
 ckpt/
 SOLIDER/
-
+cloth-segmentation/
 # Jupyter Notebooks
 .ipynb_checkpoints
 *.ipynb
