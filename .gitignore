@@ -1,0 +1,90 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environments
+idm_vton_env/
+venv/
+env/
+ENV/
+
+# Model checkpoints and weights
+*.pth
+*.pt
+*.onnx
+*.ckpt
+*.safetensors
+*.bin
+*.pkl
+model_weights/
+trained_checkpoint/
+best_model/
+ckpt/
+SOLIDER/
+cloth-segmentation/
+git-filter-repo/
+# Jupyter Notebooks
+.ipynb_checkpoints
+*.ipynb
+
+# Logs and temp files
+logs/
+*.log
+*.tmp
+
+# Output files and results
+output/
+results/
+mediapipe_test_results/
+
+# Dataset files
+datasets/
+*.hdf5
+*.h5
+*.npz
+*.npy
+vitonhd_*.json
+
+# Cache
+.cache/
+__MACOSX/
+.DS_Store
+*.swp
+*.swo
+
+# IDE-specific files
+.idea/
+.vscode/
+*.sublime-workspace
+*.sublime-project
+
+# Media files (use selective inclusion for examples)
+# Uncomment if you want to ignore all images
+*.jpg
+*.jpeg
+*.png
+*.webp
+*.gif
+
+yisol/IDM-VTON/unet/diffusion_pytorch_model.bin
+yisol/IDM-VTON/unet/diffusion_pytorch_model.bin
+
+testApi.py
