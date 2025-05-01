@@ -31,10 +31,12 @@ ENV/
 *.pt
 *.onnx
 *.ckpt
+*.safetensors
 model_weights/
 trained_checkpoint/
 best_model/
 ckpt/
+SOLIDER/
 
 # Jupyter Notebooks
 .ipynb_checkpoints
@@ -78,3 +80,4 @@ __MACOSX/
 *.png
 *.webp
 *.gif
+
