@@ -30,7 +30,6 @@ executing==2.2.0
 fastapi==0.115.12
 ffmpy==0.5.0
 filelock==3.13.1
-flash_attn @ file:///C:/Users/Mohamed%20Hanafy/Downloads/flash_attn-2.7.4%252Bcu124torch2.5.1cxx11abiFALSE-cp310-cp310-win_amd64.whl#sha256=8b6ff15a4c3335f70afd57f4f500aae2cf4f57e91a2445a4809c3657b9086e45
 flatbuffers==25.2.10
 fonttools==4.57.0
 fsspec==2024.6.1
